@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\CConferences">
+      <UniqueIdentifier>{06146b06-fea8-4a08-833d-0ee3336f592c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\JsonSDK">
+      <UniqueIdentifier>{0a9c3919-69fe-4dac-ba5b-0dc46ad7e5d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CTactics">
+      <UniqueIdentifier>{326f90d4-2c9a-4945-9e25-a21f81f4fa9f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Conference\CConferences.cpp">
+      <Filter>Source Files\CConferences</Filter>
+    </ClCompile>
+    <ClCompile Include="Conference\CReader.cpp">
+      <Filter>Source Files\CConferences</Filter>
+    </ClCompile>
+    <ClCompile Include="Conference\CTrackManager.cpp">
+      <Filter>Source Files\CConferences</Filter>
+    </ClCompile>
+    <ClCompile Include="Conference\CCourse.cpp">
+      <Filter>Source Files\CConferences</Filter>
+    </ClCompile>
+    <ClCompile Include="Tactics\CTactics.cpp">
+      <Filter>Source Files\CTactics</Filter>
+    </ClCompile>
+    <ClCompile Include="Tactics\CTacticsConnect.cpp">
+      <Filter>Source Files\CTactics</Filter>
+    </ClCompile>
+    <ClCompile Include="Tactics\CTimeLimit.cpp">
+      <Filter>Source Files\CTactics</Filter>
+    </ClCompile>
+    <ClCompile Include="Conference\CPrinter.cpp">
+      <Filter>Source Files\CConferences</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tactics\CRandom.cpp">
+      <Filter>Source Files\CTactics</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Conference\CConferences.h">
+      <Filter>Source Files\CConferences</Filter>
+    </ClInclude>
+    <ClInclude Include="Conference\CPrinter.h">
+      <Filter>Source Files\CConferences</Filter>
+    </ClInclude>
+    <ClInclude Include="Conference\CReader.h">
+      <Filter>Source Files\CConferences</Filter>
+    </ClInclude>
+    <ClInclude Include="Conference\CTrackManager.h">
+      <Filter>Source Files\CConferences</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\assertions.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\autolink.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\config.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\features.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\forwards.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\json.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\reader.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\value.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\version.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSDK\writer.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Tactics\CTactics.h">
+      <Filter>Source Files\CTactics</Filter>
+    </ClInclude>
+    <ClInclude Include="Tactics\CTacticsConnect.h">
+      <Filter>Source Files\CTactics</Filter>
+    </ClInclude>
+    <ClInclude Include="Tactics\CTimeLimit.h">
+      <Filter>Source Files\CTactics</Filter>
+    </ClInclude>
+    <ClInclude Include="Conference\CCourse.h">
+      <Filter>Source Files\CConferences</Filter>
+    </ClInclude>
+    <ClInclude Include="Tactics\CRandom.h">
+      <Filter>Source Files\CTactics</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="JsonSDK\lib_json.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="JsonFile\List.json">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\JsonSDK">
+      <UniqueIdentifier>{fd4f888f-0e1c-41cc-accd-64871ad343c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UnitTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Conference Track Management\Conference\CConferences.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\Conference\CCourse.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\Conference\CPrinter.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\Conference\CReader.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\Conference\CTrackManager.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\Tactics\CRandom.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\Tactics\CTactics.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\Tactics\CTacticsConnect.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\Tactics\CTimeLimit.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\assertions.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\autolink.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\config.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\features.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\forwards.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\json.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\reader.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\value.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\version.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Conference Track Management\JsonSDK\writer.h">
+      <Filter>Source Files\JsonSDK</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\Conference Track Management\JsonSDK\lib_json.lib" />
+  </ItemGroup>
+</Project>

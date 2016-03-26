@@ -1,0 +1,21 @@
+﻿  UnitTest.cpp
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\tactics\crandom.cpp(21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\tactics\crandom.cpp(22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\tactics\crandom.cpp(23): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\tactics\crandom.cpp(27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\tactics\crandom.cpp(28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\tactics\crandom.cpp(29): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\tactics\ctimelimit.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\cprinter.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(97): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(97): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(315): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(315): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(505): warning C4018: “<”: 有符号/无符号不匹配
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(516): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(516): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(532): warning C4018: “<”: 有符号/无符号不匹配
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(580): warning C4018: “<”: 有符号/无符号不匹配
+d:\vscode\conference track management - 副本 - 副本\conference track management\conference track management\conference\ctrackmanager.cpp(586): warning C4018: “<”: 有符号/无符号不匹配
+  UnitTest.vcxproj -> D:\VSCode\Conference Track Management - 副本 - 副本\Conference Track Management\Debug\UnitTest.exe
+  UnitTest.vcxproj -> D:\VSCode\Conference Track Management - 副本 - 副本\Conference Track Management\Debug\UnitTest.pdb (Partial PDB)

@@ -1,0 +1,23 @@
+{
+	"Courses":
+	[
+		{ "Name":"Writing Fast Tests Against Enterprise Rails","ID": 1,"Minute"£º60},
+		{ "Name":"Overdoing it in Python","ID": 2,"Minute"£º45},
+		{ "Name":"Lua for the Masses","ID": 3,"Minute"£º30},
+		{ "Name":"Ruby Errors from Mismatched Gem Versions","ID": 4,"Minute"£º45},
+		{ "Name":"Common Ruby Errors","ID": 5,"Minute"£º60},
+		{ "Name":"Rails for Python Developers lightning","ID": 6,"Minute"£º0},
+		{ "Name":"Communicating Over Distance ","ID": 7,"Minute"£º60},
+		{ "Name":"Accounting-Driven Development","ID": 8,"Minute"£º45},
+		{ "Name":"Woah","ID": 9,"Minute"£º30},
+		{ "Name":"Sit Down and Write ","ID": 10,"Minute"£º30},
+		{ "Name":"Pair Programming vs Noise","ID": 11,"Minute"£º45},
+		{ "Name":"Rails Magic","ID": 12,"Minute"£º60},
+		{ "Name":"Ruby on Rails: Why We Should Move On","ID": 13,"Minute"£º60},
+		{ "Name":"Clojure Ate Scala (on my project)","ID": 14,"Minute"£º45},
+		{ "Name":"Programming in the Boondocks of Seattle","ID": 15,"Minute"£º30},
+		{ "Name":"Ruby vs. Clojure for Back-End Development","ID": 16,"Minute"£º30},
+		{ "Name":"A World Without HackerNews","ID": 17,"Minute"£º30},
+		{ "Name":"User Interface CSS in Rails Apps","ID": 18,"Minute"£º30},
+	]   
+}

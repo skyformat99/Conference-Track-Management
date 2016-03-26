@@ -1,0 +1,31 @@
+{
+	"Courses":
+	[
+		{ "Name":"A","ID":1,"Minute":1,"Weight":0},
+		{ "Name":"B","ID":2,"Minute":2,"Weight":0},
+		{ "Name":"C","ID":3,"Minute":3,"Weight":0},
+		{ "Name":"D","ID":4,"Minute":4,"Weight":0},
+		{ "Name":"E","ID":5,"Minute":5,"Weight":0},
+		{ "Name":"F","ID":6,"Minute":6,"Weight":0},
+		{ "Name":"G","ID":7,"Minute":7,"Weight":0},
+		{ "Name":"H","ID":8,"Minute":8,"Weight":0},
+		{ "Name":"I","ID":9,"Minute":9,"Weight":0},
+		{ "Name":"G","ID":10,"Minute":10,"Weight":0},
+		{ "Name":"K","ID":11,"Minute":11,"Weight":0},
+		{ "Name":"L","ID":12,"Minute":12,"Weight":0},
+		{ "Name":"M","ID":13,"Minute":13,"Weight":0},
+		{ "Name":"N","ID":14,"Minute":14,"Weight":0},
+		{ "Name":"O","ID":15,"Minute":15,"Weight":0},
+		{ "Name":"P","ID":16,"Minute":16,"Weight":0},
+		{ "Name":"Q","ID":17,"Minute":17,"Weight":0},
+		{ "Name":"R","ID":18,"Minute":18,"Weight":0},
+		{ "Name":"S","ID":19,"Minute":19,"Weight":0},
+		{ "Name":"T","ID":20,"Minute":20,"Weight":0},
+		{ "Name":"U","ID":21,"Minute":30,"Weight":0},
+		{ "Name":"V","ID":22,"Minute":40,"Weight":0},
+		{ "Name":"W","ID":23,"Minute":50,"Weight":0},
+		{ "Name":"X","ID":24,"Minute":60,"Weight":0},
+		{ "Name":"Y","ID":25,"Minute":0,"Weight":0}
+
+	]   
+}

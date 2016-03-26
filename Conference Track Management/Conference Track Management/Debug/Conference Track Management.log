@@ -1,0 +1,11 @@
+﻿  CPrinter.cpp
+d:\vscode\conference track management - 副本\conference track management\conference track management\conference\cprinter.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在编译...
+  CConferences.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  Main.cpp
+  CTrackManager.cpp
+  Conference Track Management.vcxproj -> D:\VSCode\Conference Track Management - 副本\Conference Track Management\Debug\Conference Track Management.exe
+  Conference Track Management.vcxproj -> D:\VSCode\Conference Track Management - 副本\Conference Track Management\Debug\Conference Track Management.pdb (Partial PDB)
